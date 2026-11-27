@@ -1,0 +1,10 @@
+Frisk
+Toriel
+Sans
+Papyrus
+Undyne
+Alphys
+Asgore
+Flowey
+Asriel
+Chara
